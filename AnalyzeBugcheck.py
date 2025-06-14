@@ -1,7 +1,7 @@
 import ctypes
 import os
 
-DLL_NAME = "ext_no.dll"
+DLL_NAME = "ext.dll"
 FUNC_OFFSET = 0x9B9B8
 
 class BugcheckData(ctypes.Structure):
