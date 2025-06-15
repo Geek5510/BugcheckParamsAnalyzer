@@ -3,7 +3,7 @@
 #include <iostream>
 
 #define DLL_NAME        L"ext.dll"     // Name of the DLL
-#define FUNC_OFFSET     0x983E4        // Offset of the function
+#define FUNC_OFFSET     0x9B9B8        // Offset of the function
 
 struct BugcheckData
 {
